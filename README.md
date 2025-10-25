@@ -23,7 +23,6 @@ I love solving problems, writing clean and efficient code, and exploring how thi
 
 ## 📈 GitHub Stats  
 
-![Yoav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoavShenkerman&show_icons=true&theme=transparent)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoavShenkerman&layout=compact&theme=transparent)
 
 ---
